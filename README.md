@@ -14,7 +14,7 @@
 		<br>
 		A desktop customization tool and framework based on Rainmeter
 	</p>
-<div>
+</div>
 
 > [!WARNING]
 >
