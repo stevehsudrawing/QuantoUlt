@@ -1,0 +1,11 @@
+**Quanto Series** (includes Quanto Original, Quanto Flx, QuGen) is inspired by Fluent Design System and Windows user interface. The project is not using any code from Windows 11. Some of the graphics come from Fluent System Icons, and some are created from scratch to resemble the ones of Windows 11. Any resemblances to existing or future Microsoft(R) products are for customization purposes only, but also with an intention to raise awareness of the mentioned products within the community.
+
+QuGen is a non-profit product that is free forever and does not coerce users to pay. Any donation is voluntary.
+
+QuGen provides "Package" functionality. We cannot guarantee the security of package because there are many sources of it. Package creators are requested to follow the QuGen Package Design Specifications (aka QFPDS).
+
+As tools that does not rely on network services, QuGen's global settings, skin settings, and personal information will only be stored locally on your device and will not be collected. Some features may require access to Internet (e.g. weather) and QuGen only sends requests to these platforms or websites based on your locally stored settings and we do not collect information from them.
+
+QuGen is an Open Source Customization Project available on GitHub following Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
