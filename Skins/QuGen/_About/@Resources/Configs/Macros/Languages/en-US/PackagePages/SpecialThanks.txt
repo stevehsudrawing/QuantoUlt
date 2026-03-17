@@ -1,0 +1,55 @@
+++3**@@T@@hird-@@P@@arty @@S@@upport**++3
+
+``- ``Brian
+``  ``@^8+-1``HotKey`` Plugin, ``SysColor`` Plugin@^8+-1
+
+``- ``Cfixd
+``  ``@^8+-1``Backlight`` Plugin@^8+-1
+
+``- ``Death.crafter
+``  ``@^8+-1``TrayIcon`` Plugin@^8+-1
+
+``- ``JSMorley
+``  ``@^8+-1``ConfigActive`` Plugin, ``RainRGB4`` Add-on@^8+-1
+
+``- ``KazukiGames82
+``  ``@^8+-1``FrostedGlass`` Plugin@^8+-1
+
+``- ``Khanhas
+``  ``@^8+-1``AppVolume`` Plugin@^8+-1
+
+``- ``NighthawkSLO
+``  ``@^8+-1``Mouse`` Plugin@^8+-1
+
+``- ``Open-Meteo
+``  ``@^8+-1Weather Forecast API, Air Quality API@^8+-1
+
+``- ``Setsukka
+``  ``@^8+-1``FileChoose`` Plugin@^8+-1
+
+``- ``Smurfier
+``  ``@^8+-1``LuaCalendar`` Script@^8+-1
+
+``- ``Socks the Fox
+``  ``@^8+-1``Chameleon`` Plugin@^8+-1
+
+``- ``TheAzack9
+``  ``@^8+-1``Drag&Drop`` Plugin@^8+-1
+
+``- ``Tjhrulz
+``  ``@^8+-1``WebNowPlaying`` Plugin@^8+-1
+
+
+++3**@@P@@roject @@D@@evelopment @@C@@ontributors**++3
+
+``- ``LinguaOccultus
+``  ``@^8+-1Project development contributor@^8+-1
+
+
+++3**@@S@@upporters**++3
+
+``- ``All watchers, subscribers & followers
+``  ``@^8+-1of this project and our offcial accounts@^8+-1
+
+``- ``Every users
+``  ``@^8+-1and you, of course!@^8+-1

@@ -1,0 +1,7 @@
+@Resources
+QuGenGadgets
+QuGenMiscellaneous
+QuGenPerformanceMonitors
+QuGenShortcuts
+_About
+_Settings
