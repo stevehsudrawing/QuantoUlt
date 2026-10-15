@@ -1,4 +1,4 @@
-++3**@@T@@hird-@@P@@arty @@S@@upport**++3
+++2**@@T@@hird-Party Support**++2
 
 ``- ``Brian
 ``  ``@^8+-1``HotKey`` Plugin, ``SysColor`` Plugin@^8+-1
@@ -40,13 +40,13 @@
 ``  ``@^8+-1``WebNowPlaying`` Plugin@^8+-1
 
 
-++3**@@P@@roject @@D@@evelopment @@C@@ontributors**++3
+++2**@@P@@roject Development Contributors**++2
 
 ``- ``LinguaOccultus
 ``  ``@^8+-1Project development contributor@^8+-1
 
 
-++3**@@S@@upporters**++3
+++2**@@S@@upporters**++2
 
 ``- ``All watchers, subscribers & followers
 ``  ``@^8+-1of this project and our offcial accounts@^8+-1

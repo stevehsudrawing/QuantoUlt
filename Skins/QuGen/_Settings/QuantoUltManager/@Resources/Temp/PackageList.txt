@@ -1,0 +1,7 @@
+@Resources
+QuantoUltGadgets
+QuantoUltMiscellaneous
+QuantoUltPerformanceMonitors
+QuantoUltShortcuts
+_About
+_Settings
